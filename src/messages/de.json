@@ -1,0 +1,38 @@
+{
+  "main": {
+    "title": "Willkommen beim Business Template Builder",
+    "description": "DSGVO-konformer Website-Builder für kleine Unternehmen",
+    "nav": {
+      "home": "Startseite",
+      "about": "Über Uns",
+      "services": "Dienstleistungen",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "privacyPolicy": "Datenschutzerklärung",
+      "termsOfService": "Nutzungsbedingungen"
+    }
+
+  },
+  "hero": {
+    "title": "Willkommen bei SweetCrust Bakery",
+    "subtitle": "Täglich frisch gebackene Waren!"
+  },
+  "about": {
+    "heading": "Über Uns",
+    "text": "Wir sind eine familiengeführte Bäckerei mit frischen Produkten am Morgen."
+  },
+  "services": {
+    "heading": "Unsere Dienstleistungen",
+    "bread": "Frisches Brot",
+    "cakes": "Individuelle Kuchen",
+    "catering": "Gebäck-Catering"
+  },
+  "contact": {
+    "name": "Ihr Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "consent": "Ich stimme der Datenschutzrichtlinie zu",
+    "send": "Senden"
+  }
+}

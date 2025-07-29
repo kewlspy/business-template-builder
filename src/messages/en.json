@@ -1,0 +1,35 @@
+{"main":{
+  "title": "Welcome to the Business Template Builder",
+  "description": "GDPR-compliant small business website builder",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact Us"
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"}
+},
+  "hero": {
+    "title": "Welcome to SweetCrust Bakery",
+    "subtitle": "Freshly baked goods daily!"
+  },
+  "about": {
+    "heading": "About Us",
+    "text": "We’re a family-run bakery serving fresh goods every morning."
+  },
+  "services": {
+    "heading": "Our Services",
+    "bread": "Fresh Bread",
+    "cakes": "Custom Cakes",
+    "catering": "Pastry Catering"
+  },
+  "contact": {
+    "name": "Your Name",
+    "email": "Email",
+    "message": "Message",
+    "consent": "I agree to the privacy policy",
+    "send": "Send"
+  }
+}
