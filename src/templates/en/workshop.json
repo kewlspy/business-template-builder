@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "services", "about", "contact"],
+  "hero": {
+    "title": "Your Local Auto Experts",
+    "subtitle": "Reliable car repairs with honest service"
+  },
+  "about": {
+    "heading": "About Our Workshop",
+    "text": "Family-run garage offering trusted mechanical service for over 15 years."
+  },
+  "services": {
+    "heading": "What We Do",
+    "items": ["Brake Service", "Oil Change", "Engine Diagnostics"]
+  },
+  "contact": {
+    "fields": ["name", "phone", "message"],
+    "consent": "I agree to the privacy policy",
+    "send": "Request Quote"
+  }
+}

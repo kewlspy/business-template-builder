@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "services", "about", "contact"],
+  "hero": {
+    "title": "Ihre Autowerkstatt vor Ort",
+    "subtitle": "Zuverlässige Autoreparaturen mit Ehrlichkeit"
+  },
+  "about": {
+    "heading": "Über unsere Werkstatt",
+    "text": "Familienbetrieb mit zuverlässigem Service seit über 15 Jahren."
+  },
+  "services": {
+    "heading": "Unsere Leistungen",
+    "items": ["Bremsendienst", "Ölwechsel", "Motordiagnose"]
+  },
+  "contact": {
+    "fields": ["name", "phone", "message"],
+    "consent": "Ich stimme der Datenschutzrichtlinie zu",
+    "send": "Angebot anfordern"
+  }
+}

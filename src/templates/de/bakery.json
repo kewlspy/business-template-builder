@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "about", "services", "contact"],
+  "hero": {
+    "title": "Willkommen bei SweetCrust Bakery",
+    "subtitle": "Täglich frisch gebackene Waren!"
+  },
+  "about": {
+    "heading": "Über Uns",
+    "text": "Wir sind eine familiengeführte Bäckerei mit frischen Produkten am Morgen."
+  },
+  "services": {
+    "heading": "Unsere Dienstleistungen",
+    "items": ["Frisches Brot", "Individuelle Kuchen", "Gebäck-Catering"]
+  },
+  "contact": {
+    "fields": ["name", "email", "message"],
+    "consent": "Ich stimme der Datenschutzrichtlinie zu",
+    "send": "Senden"
+  }
+}

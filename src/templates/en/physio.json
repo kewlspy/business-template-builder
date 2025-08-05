@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "about", "services", "contact"],
+  "hero": {
+    "title": "Reclaim Your Movement",
+    "subtitle": "Professional physiotherapy for a healthier you"
+  },
+  "about": {
+    "heading": "About Our Practice",
+    "text": "We specialize in rehabilitation and pain relief through personalized treatment plans."
+  },
+  "services": {
+    "heading": "Our Services",
+    "items": ["Sports Injury Rehab", "Back & Neck Pain", "Post-Surgical Recovery"]
+  },
+  "contact": {
+    "fields": ["name", "email", "message"],
+    "consent": "I agree to the privacy policy",
+    "send": "Book Appointment"
+  }
+}

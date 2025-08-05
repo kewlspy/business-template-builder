@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "services", "about", "contact"],
+  "hero": {
+    "title": "SharpStyle Barber Shop",
+    "subtitle": "Precision cuts. Clean fades."
+  },
+  "about": {
+    "heading": "About Our Shop",
+    "text": "Your neighborhood barber, blending tradition and trend."
+  },
+  "services": {
+    "heading": "What We Offer",
+    "items": ["Haircuts", "Beard Trimming", "Hot Towel Shave"]
+  },
+  "contact": {
+    "fields": ["name", "phone", "message"],
+    "consent": "I agree to the privacy policy",
+    "send": "Book Now"
+  }
+}

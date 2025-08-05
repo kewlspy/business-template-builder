@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "about", "services", "contact"],
+  "hero": {
+    "title": "Welcome to SweetCrust Bakery",
+    "subtitle": "Freshly baked goods daily!"
+  },
+  "about": {
+    "heading": "About Us",
+    "text": "We’re a family-run bakery serving fresh goods every morning."
+  },
+  "services": {
+    "heading": "Our Services",
+    "items": ["Fresh Bread", "Custom Cakes", "Pastry Catering"]
+  },
+  "contact": {
+    "fields": ["name", "email", "message"],
+    "consent": "I agree to the privacy policy",
+    "send": "Send"
+  }
+}

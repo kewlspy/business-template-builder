@@ -1,0 +1,20 @@
+{
+  "layout": ["hero", "about", "services", "contact"],
+  "hero": {
+    "title": "Bewegen Sie sich wieder frei",
+    "subtitle": "Professionelle Physiotherapie für Ihre Gesundheit"
+  },
+  "about": {
+    "heading": "Über unsere Praxis",
+    "text": "Wir sind spezialisiert auf Rehabilitation und Schmerzlinderung mit individuellen Behandlungsplänen."
+  },
+  "services": {
+    "heading": "Unsere Leistungen",
+    "items": ["Sportverletzungen", "Rücken- und Nackenschmerzen", "Postoperative Betreuung"]
+  },
+  "contact": {
+    "fields": ["name", "email", "message"],
+    "consent": "Ich stimme der Datenschutzrichtlinie zu",
+    "send": "Termin Buchen"
+  }
+}

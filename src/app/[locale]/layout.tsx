@@ -1,5 +1,6 @@
 import "../../styles/globals.css";
 import IntlProviderWrapper from "../../components/IntlProviderWrapper";
+import { ReactNode } from "react";
 
 export const metadata = {
   title: "Business Template Builder",
@@ -7,10 +8,10 @@ export const metadata = {
 };
 
 export default async function LocaleLayout(props: {
-  children: React.ReactNode;
-  params: { locale: string };
+  children: ReactNode;
+  params: Promise<{ locale: string }>;
 }) {
-  const { locale } = props.params;
+  const { locale } = await props.params;
 
   let messages = {};
   try {
